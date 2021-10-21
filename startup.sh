@@ -11,7 +11,7 @@ echo "
 FridayUserBot
 
 (C) @FridayOT
-Powered By @DevsExpo.
+Powered By @DacchuLive.
 Time : $nowtime
 "
 update_and_install_packages () {
