@@ -62,7 +62,7 @@ class Config((object)):
     HEROKU_API_KEY = os.environ.get("HEROKU_API_KEY", None)
     FBAN_GROUP = int(os.environ.get("FBAN_GROUP", False))
     UPSTREAM_REPO = os.environ.get(
-        "UPSTREAM_REPO", "https://github.com/DevsExpo/FridayUserbot"
+        "UPSTREAM_REPO", "https://github.com/XDacchuX/FridayUserBot"
     )
     ALIVE_IMG = os.environ.get(
         "ALIVE_IMG", "https://telegra.ph//file/7ad807cd9d562ae4f85d8.jpg"
